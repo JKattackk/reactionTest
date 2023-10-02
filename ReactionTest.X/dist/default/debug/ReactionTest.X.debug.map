@@ -1,0 +1,957 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              build/default/debug/newavr-main.o (__addsf3)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              build/default/debug/newavr-main.o (__eqsf2)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              build/default/debug/newavr-main.o (__divsf3)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              build/default/debug/newavr-main.o (__floatunsisf)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              build/default/debug/newavr-main.o (__gtsf2)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              build/default/debug/newavr-main.o (__mulsf3)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                              build/default/debug/newavr-main.o (__do_copy_data)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                              build/default/debug/newavr-main.o (__do_clear_bss)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__prologue_saves__)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__epilogue_restores__)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o)
+                              build/default/debug/newavr-main.o (srand)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+                              build/default/debug/newavr-main.o (random)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                              build/default/debug/newavr-main.o (__iob)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(printf.o)
+                              build/default/debug/newavr-main.o (printf)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o) (__divmodsi4)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o) (__muluhisi3)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o) (__mulohisi3)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                              c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+overflows           0x2               build/default/debug/newavr-main.o
+__iob               0x6               c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x0000000000000000        0x0 build/default/debug/newavr-main.o
+ .data          0x0000000000000000        0x0 build/default/debug/newavr-main.o
+ .bss           0x0000000000000000        0x0 build/default/debug/newavr-main.o
+ .bss.early     0x0000000000000000        0x1 build/default/debug/newavr-main.o
+ .text          0x0000000000000000        0x0 build/default/debug/_ext/792833749/hd44780.o
+ .data          0x0000000000000000        0x0 build/default/debug/_ext/792833749/hd44780.o
+ .bss           0x0000000000000000        0x0 build/default/debug/_ext/792833749/hd44780.o
+ .text.hd44780_powerdown
+                0x0000000000000000        0xe build/default/debug/_ext/792833749/hd44780.o
+ .text          0x0000000000000000        0x0 build/default/debug/_ext/792833749/lcd.o
+ .data          0x0000000000000000        0x0 build/default/debug/_ext/792833749/lcd.o
+ .bss           0x0000000000000000        0x0 build/default/debug/_ext/792833749/lcd.o
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800100 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a
+LOAD c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+LOAD build/default/debug/newavr-main.o
+LOAD build/default/debug/_ext/792833749/hd44780.o
+LOAD build/default/debug/_ext/792833749/lcd.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+                0x0000000000000001                __ICD2RAM = 0x1
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
+START GROUP
+LOAD c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a
+LOAD c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x1984
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ .progmem.data  0x0000000000000068        0x8 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x0000000000000070       0xfa c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ *(.progmem*)
+                0x000000000000016a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000016a                __ctors_start = .
+ *(.ctors)
+                0x000000000000016a                __ctors_end = .
+                0x000000000000016a                __dtors_start = .
+ *(.dtors)
+                0x000000000000016a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000016a        0x0 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000000000016a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000016a        0xc C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000176       0x16 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000176                __do_copy_data
+ .init4         0x000000000000018c       0x10 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000000000018c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000019c        0x8 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000001a4        0x4 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000000001a4                __vector_22
+                0x00000000000001a4                __vector_24
+                0x00000000000001a4                __vector_12
+                0x00000000000001a4                __bad_interrupt
+                0x00000000000001a4                __vector_6
+                0x00000000000001a4                __vector_3
+                0x00000000000001a4                __vector_23
+                0x00000000000001a4                __vector_25
+                0x00000000000001a4                __vector_11
+                0x00000000000001a4                __vector_17
+                0x00000000000001a4                __vector_19
+                0x00000000000001a4                __vector_7
+                0x00000000000001a4                __vector_5
+                0x00000000000001a4                __vector_4
+                0x00000000000001a4                __vector_9
+                0x00000000000001a4                __vector_2
+                0x00000000000001a4                __vector_21
+                0x00000000000001a4                __vector_15
+                0x00000000000001a4                __vector_8
+                0x00000000000001a4                __vector_14
+                0x00000000000001a4                __vector_10
+                0x00000000000001a4                __vector_16
+                0x00000000000001a4                __vector_18
+                0x00000000000001a4                __vector_20
+                0x00000000000001a8                . = ALIGN (0x2)
+ *(.text.*)
+ .text.avr-libc
+                0x00000000000001a8      0x6c2 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                0x00000000000001a8                vfprintf
+ .text.timer_init
+                0x000000000000086a       0x26 build/default/debug/newavr-main.o
+                0x000000000000086a                timer_init
+ .text.updateTime
+                0x0000000000000890      0x1ce build/default/debug/newavr-main.o
+                0x0000000000000890                updateTime
+ .text.runTest  0x0000000000000a5e      0x174 build/default/debug/newavr-main.o
+                0x0000000000000a5e                runTest
+ .text.resetValues
+                0x0000000000000bd2       0x5c build/default/debug/newavr-main.o
+                0x0000000000000bd2                resetValues
+ .text.main     0x0000000000000c2e       0x62 build/default/debug/newavr-main.o
+                0x0000000000000c2e                main
+ .text.__vector_13
+                0x0000000000000c90       0x2e build/default/debug/newavr-main.o
+                0x0000000000000c90                __vector_13
+ .text.__vector_1
+                0x0000000000000cbe       0xbc build/default/debug/newavr-main.o
+                0x0000000000000cbe                __vector_1
+ .text.hd44780_outnibble
+                0x0000000000000d7a       0x24 build/default/debug/_ext/792833749/hd44780.o
+ .text.hd44780_innibble
+                0x0000000000000d9e       0x34 build/default/debug/_ext/792833749/hd44780.o
+ .text.hd44780_outbyte
+                0x0000000000000dd2       0x20 build/default/debug/_ext/792833749/hd44780.o
+                0x0000000000000dd2                hd44780_outbyte
+ .text.hd44780_inbyte
+                0x0000000000000df2       0x1e build/default/debug/_ext/792833749/hd44780.o
+                0x0000000000000df2                hd44780_inbyte
+ .text.hd44780_wait_ready
+                0x0000000000000e10        0xc build/default/debug/_ext/792833749/hd44780.o
+                0x0000000000000e10                hd44780_wait_ready
+ .text.hd44780_init
+                0x0000000000000e1c       0x78 build/default/debug/_ext/792833749/hd44780.o
+                0x0000000000000e1c                hd44780_init
+ .text.lcd_init
+                0x0000000000000e94       0x30 build/default/debug/_ext/792833749/lcd.o
+                0x0000000000000e94                lcd_init
+ .text.lcd_putchar
+                0x0000000000000ec4       0x54 build/default/debug/_ext/792833749/lcd.o
+                0x0000000000000ec4                lcd_putchar
+ .text.avr-libc.fplib
+                0x0000000000000f18        0xe c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x0000000000000f18                __subsf3
+                0x0000000000000f1a                __addsf3
+ .text.avr-libc.fplib
+                0x0000000000000f26       0xcc c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x0000000000000f48                __addsf3x
+ .text.avr-libc.fplib
+                0x0000000000000ff2        0xa c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000000000000ff2                __nesf2
+                0x0000000000000ff2                __eqsf2
+                0x0000000000000ff2                __cmpsf2
+                0x0000000000000ff2                __ltsf2
+                0x0000000000000ff2                __lesf2
+ .text.avr-libc.fplib
+                0x0000000000000ffc        0x8 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x0000000000000ffc                __divsf3
+ .text.avr-libc.fplib
+                0x0000000000001004       0xdc c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x0000000000001024                __divsf3x
+                0x000000000000102a                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000000000010e0       0x7a c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00000000000010e0                __floatunsisf
+                0x00000000000010e4                __floatsisf
+ .text.avr-libc.fplib
+                0x000000000000115a       0x48 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x000000000000115a                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000000000011a2        0xc c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000000000011a2                __fp_inf
+ .text.avr-libc.fplib
+                0x00000000000011ae        0x6 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000000000011ae                __fp_nan
+ .text.avr-libc.fplib
+                0x00000000000011b4        0xe c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000000000011b4                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000000000011c2        0xe c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000000000011c2                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000000000011d0       0x22 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000000000011d0                __fp_round
+ .text.avr-libc.fplib
+                0x00000000000011f2       0x44 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000000000011f2                __fp_split3
+                0x0000000000001202                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000001236        0xe c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000000000001236                __fp_zero
+                0x0000000000001238                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000001244        0xa c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000000000001244                __gesf2
+                0x0000000000001244                __gtsf2
+ .text.avr-libc.fplib
+                0x000000000000124e        0x8 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000000000000124e                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000001256       0xd2 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000000000001274                __mulsf3x
+                0x000000000000127a                __mulsf3_pse
+ .text.libgcc.prologue
+                0x0000000000001328       0x38 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+                0x0000000000001328                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000000000001360       0x36 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+                0x0000000000001360                __epilogue_restores__
+ .text.avr-libc
+                0x0000000000001396       0xb8 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o)
+                0x0000000000001428                rand_r
+                0x000000000000142e                rand
+                0x0000000000001438                srand
+ .text.avr-libc
+                0x000000000000144e      0x148 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+                0x000000000000144e                random_r
+                0x00000000000014e6                random
+                0x0000000000001584                srandom
+ .text.avr-libc
+                0x0000000000001596      0x1b0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                0x0000000000001596                __ftoa_engine
+ .text.avr-libc
+                0x0000000000001746       0x16 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x0000000000001746                strnlen_P
+ .text.avr-libc
+                0x000000000000175c       0x16 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x000000000000175c                strnlen
+ .text.avr-libc
+                0x0000000000001772       0x60 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x0000000000001772                fputc
+ .text.avr-libc
+                0x00000000000017d2       0x2c c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(printf.o)
+                0x00000000000017d2                printf
+ .text.avr-libc
+                0x00000000000017fe       0xbc c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00000000000017fe                __ultoa_invert
+ .text.libgcc.div
+                0x00000000000018ba       0x2e c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00000000000018ba                __divmodsi4
+ .text.libgcc.div
+                0x00000000000018e8       0x10 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_negsi2.o)
+                0x00000000000018e8                __negsi2
+ .text.libgcc.mul
+                0x00000000000018f8       0x16 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00000000000018f8                __muluhisi3
+ .text.libgcc.mul
+                0x000000000000190e       0x10 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_mulshisi3.o)
+                0x000000000000190e                __mulshisi3
+                0x0000000000001914                __mulohisi3
+ .text.libgcc.div
+                0x000000000000191e       0x44 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000000000000191e                __udivmodsi4
+ .text.libgcc.mul
+                0x0000000000001962       0x1e c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                0x0000000000001962                __umulhisi3
+                0x0000000000001980                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000001980        0x0 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x0000000000001980                _exit
+                0x0000000000001980                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000001980        0x4 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000001984                _etext = .
+
+.data           0x0000000000800100       0xa8 load address 0x0000000000001984
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x4 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o)
+ .data          0x0000000000800104        0x4 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+ *(.data*)
+ .data.mode     0x0000000000800108        0x2 build/default/debug/newavr-main.o
+                0x0000000000800108                mode
+ .data.lcd_str  0x000000000080010a        0xe build/default/debug/newavr-main.o
+                0x000000000080010a                lcd_str
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.updateTime.str1.1
+                0x0000000000800118       0x1d build/default/debug/newavr-main.o
+ .rodata.runTest.str1.1
+                0x0000000000800135       0x42 build/default/debug/newavr-main.o
+ .rodata.resetValues.str1.1
+                0x0000000000800177       0x28 build/default/debug/newavr-main.o
+ .rodata.__vector_1.str1.1
+                0x000000000080019f        0x8 build/default/debug/newavr-main.o
+ *(.gnu.linkonce.r*)
+                0x00000000008001a8                . = ALIGN (0x2)
+ *fill*         0x00000000008001a7        0x1 
+                0x00000000008001a8                _edata = .
+                0x00000000008001a8                PROVIDE (__data_end, .)
+
+.bss            0x00000000008001a8       0x13
+                0x00000000008001a8                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.count     0x00000000008001a8        0x2 build/default/debug/newavr-main.o
+                0x00000000008001a8                count
+ .bss.average   0x00000000008001aa        0x4 build/default/debug/newavr-main.o
+                0x00000000008001aa                average
+ .bss.min       0x00000000008001ae        0x4 build/default/debug/newavr-main.o
+                0x00000000008001ae                min
+ .bss.esc_seen.1850
+                0x00000000008001b2        0x1 build/default/debug/_ext/792833749/lcd.o
+ *(COMMON)
+ COMMON         0x00000000008001b3        0x2 build/default/debug/newavr-main.o
+                0x00000000008001b3                overflows
+ COMMON         0x00000000008001b5        0x6 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                0x00000000008001b5                __iob
+                0x00000000008001bb                PROVIDE (__bss_end, .)
+                0x0000000000001984                __data_load_start = LOADADDR (.data)
+                0x0000000000001a2c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008001bb        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x00000000008001bb                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x2c c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000002c       0x30 build/default/debug/newavr-main.o
+                                         0x31 (size before relaxing)
+ .comment       0x000000000000005c       0x31 build/default/debug/_ext/792833749/hd44780.o
+ .comment       0x000000000000005c       0x31 build/default/debug/_ext/792833749/lcd.o
+ .comment       0x000000000000005c       0x31 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(rand.o)
+ .comment       0x000000000000005c       0x31 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .comment       0x000000000000005c       0x31 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .comment       0x000000000000005c       0x31 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x000000000000005c       0x31 c:/users/jack/documents/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(printf.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xc8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x50 build/default/debug/newavr-main.o
+ .debug_aranges
+                0x0000000000000050       0x50 build/default/debug/_ext/792833749/hd44780.o
+ .debug_aranges
+                0x00000000000000a0       0x28 build/default/debug/_ext/792833749/lcd.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x14c8
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x00000000000005f4      0x5d3 build/default/debug/newavr-main.o
+ .debug_info    0x0000000000000bc7      0x61f build/default/debug/_ext/792833749/hd44780.o
+ .debug_info    0x00000000000011e6      0x2e2 build/default/debug/_ext/792833749/lcd.o
+
+.debug_abbrev   0x0000000000000000      0xc47
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x00000000000005a2      0x296 build/default/debug/newavr-main.o
+ .debug_abbrev  0x0000000000000838      0x299 build/default/debug/_ext/792833749/hd44780.o
+ .debug_abbrev  0x0000000000000ad1      0x176 build/default/debug/_ext/792833749/lcd.o
+
+.debug_line     0x0000000000000000      0x955
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x134 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x0000000000000134      0x436 build/default/debug/newavr-main.o
+ .debug_line    0x000000000000056a      0x2b8 build/default/debug/_ext/792833749/hd44780.o
+ .debug_line    0x0000000000000822      0x133 build/default/debug/_ext/792833749/lcd.o
+
+.debug_frame    0x0000000000000000      0x2d0
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x1f8 build/default/debug/newavr-main.o
+ .debug_frame   0x00000000000001f8       0x9c build/default/debug/_ext/792833749/hd44780.o
+ .debug_frame   0x0000000000000294       0x3c build/default/debug/_ext/792833749/lcd.o
+
+.debug_str      0x0000000000000000      0x577
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x0000000000000208      0x28a build/default/debug/newavr-main.o
+                                        0x2c3 (size before relaxing)
+ .debug_str     0x0000000000000492       0xb9 build/default/debug/_ext/792833749/hd44780.o
+                                        0x277 (size before relaxing)
+ .debug_str     0x000000000000054b       0x2c build/default/debug/_ext/792833749/lcd.o
+                                        0x1dd (size before relaxing)
+
+.debug_loc      0x0000000000000000      0xc5c
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x86f build/default/debug/newavr-main.o
+ .debug_loc     0x000000000000086f      0x35e build/default/debug/_ext/792833749/hd44780.o
+ .debug_loc     0x0000000000000bcd       0x8f build/default/debug/_ext/792833749/lcd.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0xc8
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x58 build/default/debug/newavr-main.o
+ .debug_ranges  0x0000000000000058       0x58 build/default/debug/_ext/792833749/hd44780.o
+ .debug_ranges  0x00000000000000b0       0x18 build/default/debug/_ext/792833749/lcd.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/debug/ReactionTest.X.debug.elf elf32-avr)
+LOAD linker stubs
